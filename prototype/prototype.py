@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+AMNISHA 
 Demand-aware drop valuation prototype for the Nox Metals nesting challenge.
 
 This is intentionally NOT a production nesting/packing solver. It demonstrates
