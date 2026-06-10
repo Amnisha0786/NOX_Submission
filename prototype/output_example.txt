@@ -1,0 +1,46 @@
+DATASET SUMMARY
+---------------
+current jobs: 10
+inventory items: 36 (10 fresh plate SKUs, 26 drops)
+historical order lines: 220
+
+CURRENT DEMAND BY MATERIAL GROUP
+6061-T6  0.25:  30 pieces,   11368 sq in
+6061-T6     1:   9 pieces,    8582 sq in
+6061-T6  0.75:  13 pieces,    4680 sq in
+7075-T6  0.25:   5 pieces,    4070 sq in
+6061-T6   0.5:  13 pieces,    1300 sq in
+7075-T6     1:   8 pieces,    1152 sq in
+7075-T6   0.5:   2 pieces,    1002 sq in
+6061-T6 0.125:   6 pieces,     384 sq in
+
+TOP DROPS TO PRESERVE IF POSSIBLE
+drop       material   size      hist_qty_fit  confidence  expected_value
+drop-0013  6061-T6 0.5  29x45           281       1.00 $  239.29
+drop-0010  6061-T6 0.5  26x38           255       1.00 $  176.24
+drop-0015  6061-T6 0.5  24x39           247       1.00 $  165.33
+drop-0011  6061-T6 1    24x30            30       0.37 $   80.13
+drop-0021  6061-T6 0.25 25x36           258       1.00 $   79.55
+drop-0007  6061-T6 0.5  22x22           181       1.00 $   75.97
+drop-0025  6061-T6 0.25 18x43           245       1.00 $   67.27
+drop-0019  6061-T6 0.5  19x22           181       1.00 $   65.61
+
+LOW-VALUE DROPS TO CONSUME FIRST WHEN THEY FIT
+drop-0004  7075-T6 0.25  4x16  expected future value $0.00
+drop-0005  6061-T6 0.75  6x19  expected future value $0.00
+drop-0006  6061-T6 0.75 11x24  expected future value $0.00
+drop-0018  7075-T6 0.5   8x16  expected future value $0.47
+drop-0016  6061-T6 0.5   6x8   expected future value $0.61
+drop-0026  6061-T6 0.25  5x9   expected future value $0.70
+drop-0014  7075-T6 0.125  7x48  expected future value $2.12
+drop-0022  7075-T6 0.25 13x14  expected future value $5.24
+
+EXAMPLE DECISION: one 6061-T6 0.5in 10x10 part
+The prototype prefers drops with low opportunity cost, not simply the largest fitting drop.
+drop       size    saved_material  original_value  leftover_value  net_score
+drop-0024   11x11 $   20.48      $    5.89       $    0.00   $   14.59
+drop-0015   24x39 $   20.48      $  165.33       $  125.56   $  -19.30
+drop-0019   19x22 $   20.48      $   65.61       $   25.65   $  -19.49
+drop-0007   22x22 $   20.48      $   75.97       $   33.41   $  -22.09
+drop-0010   26x38 $   20.48      $  176.24       $  132.41   $  -23.36
+drop-0013   29x45 $   20.48      $  239.29       $  192.76   $  -26.05

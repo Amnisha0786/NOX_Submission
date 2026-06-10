@@ -1,0 +1,1762 @@
+[
+  {
+    "ordered_at": "2025-06-08",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 8,
+    "length_in": 12,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-06-09",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 5,
+    "length_in": 24,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-06-09",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 24,
+    "length_in": 36,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-06-10",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 22,
+    "length_in": 58,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-06-12",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 17,
+    "length_in": 52,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-06-12",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 6,
+    "length_in": 13,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-06-14",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 9,
+    "length_in": 11,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-06-14",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 7,
+    "length_in": 13,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-06-14",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 23,
+    "length_in": 37,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-06-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 9,
+    "length_in": 11,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-06-16",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 9,
+    "length_in": 10,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-06-20",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 38,
+    "length_in": 70,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-06-22",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 7,
+    "length_in": 25,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-06-22",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 26,
+    "length_in": 44,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-06-22",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 7,
+    "length_in": 12,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-06-23",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 24,
+    "length_in": 37,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-06-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 27,
+    "length_in": 41,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-06-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 24,
+    "length_in": 35,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-06-26",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 13,
+    "length_in": 17,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-06-26",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 8,
+    "length_in": 13,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-06-28",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 7,
+    "length_in": 13,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-06-28",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 4,
+    "length_in": 7,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-06-30",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 5,
+    "length_in": 24,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-07-01",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 5,
+    "length_in": 23,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-07-05",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 12,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-07-09",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 5,
+    "length_in": 7,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-07-10",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 8,
+    "length_in": 33,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-07-13",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 11,
+    "length_in": 11,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-07-13",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 25,
+    "length_in": 37,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-07-15",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 24,
+    "length_in": 35,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-07-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 16,
+    "length_in": 20,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-07-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 40,
+    "length_in": 56,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-07-17",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 10,
+    "length_in": 27,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-07-18",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 28,
+    "length_in": 44,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-07-19",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 5,
+    "length_in": 24,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-07-22",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 13,
+    "length_in": 56,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-07-23",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 3,
+    "length_in": 9,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-07-28",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 9,
+    "length_in": 9,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-07-29",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 25,
+    "length_in": 35,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-08-09",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 6,
+    "length_in": 29,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-08-10",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 6,
+    "length_in": 24,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-08-11",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 5,
+    "length_in": 24,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-08-13",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 13,
+    "length_in": 17,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-08-14",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 28,
+    "length_in": 41,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-08-14",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 11,
+    "length_in": 19,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-08-15",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 15,
+    "length_in": 15,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-08-17",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 24,
+    "length_in": 36,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-08-18",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 10,
+    "length_in": 11,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-08-19",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 14,
+    "length_in": 66,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-08-21",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 10,
+    "length_in": 10,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-08-22",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 11,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-08-24",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 16,
+    "length_in": 20,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-08-26",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 15,
+    "length_in": 19,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-08-29",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 23,
+    "length_in": 35,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-09-01",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 13,
+    "length_in": 18,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-09-02",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 23,
+    "length_in": 37,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-09-02",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 3,
+    "length_in": 9,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-09-03",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 11,
+    "length_in": 17,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-09-04",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 15,
+    "length_in": 21,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-09-04",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 10,
+    "length_in": 10,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-09-04",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 15,
+    "length_in": 61,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-09-05",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 13,
+    "length_in": 17,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-09-14",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 10,
+    "length_in": 11,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-09-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 5,
+    "length_in": 25,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-09-18",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 3,
+    "length_in": 9,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-09-19",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 5,
+    "length_in": 52,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-09-20",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 11,
+    "length_in": 38,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-09-24",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 11,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-09-28",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 21,
+    "length_in": 31,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-09-30",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 24,
+    "length_in": 35,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-10-01",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 6,
+    "length_in": 25,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-10-03",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 9,
+    "length_in": 10,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-10-06",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 5,
+    "length_in": 24,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-10-06",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 7,
+    "length_in": 13,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-10-11",
+    "alloy": "7075-T6",
+    "thickness_in": 1,
+    "width_in": 24,
+    "length_in": 36,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-10-12",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 9,
+    "length_in": 13,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-10-12",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 13,
+    "length_in": 41,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-10-12",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 37,
+    "length_in": 57,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-10-13",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 9,
+    "length_in": 11,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-10-15",
+    "alloy": "6061-T6",
+    "thickness_in": 0.75,
+    "width_in": 4,
+    "length_in": 58,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-10-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 9,
+    "length_in": 11,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-10-18",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 16,
+    "length_in": 32,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-10-18",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 3,
+    "length_in": 9,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-10-21",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 8,
+    "length_in": 11,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-10-22",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 12,
+    "length_in": 18,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-10-27",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 19,
+    "length_in": 43,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-10-30",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 3,
+    "length_in": 50,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-11-01",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 9,
+    "length_in": 9,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-11-01",
+    "alloy": "6061-T6",
+    "thickness_in": 0.75,
+    "width_in": 25,
+    "length_in": 47,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-11-01",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 32,
+    "length_in": 56,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-11-04",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 9,
+    "length_in": 13,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-11-05",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 36,
+    "length_in": 40,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-11-05",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 6,
+    "length_in": 16,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-11-05",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 9,
+    "length_in": 10,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-11-06",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 24,
+    "length_in": 36,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-11-06",
+    "alloy": "7075-T6",
+    "thickness_in": 1,
+    "width_in": 7,
+    "length_in": 48,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-11-08",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 11,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-11-09",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 8,
+    "length_in": 11,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-11-09",
+    "alloy": "6061-T6",
+    "thickness_in": 0.75,
+    "width_in": 13,
+    "length_in": 19,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-11-10",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 26,
+    "length_in": 50,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-11-10",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 17,
+    "length_in": 20,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-11-11",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 5,
+    "length_in": 24,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-11-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 7,
+    "length_in": 12,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-11-18",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 17,
+    "length_in": 20,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-11-18",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 3,
+    "length_in": 9,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-11-19",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 9,
+    "length_in": 11,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-11-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 18,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-11-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 12,
+    "length_in": 17,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-11-27",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 17,
+    "length_in": 57,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-11-28",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 10,
+    "length_in": 10,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-12-02",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 3,
+    "length_in": 9,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-12-03",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 11,
+    "length_in": 17,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2025-12-03",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 20,
+    "length_in": 40,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-12-06",
+    "alloy": "6061-T6",
+    "thickness_in": 0.75,
+    "width_in": 24,
+    "length_in": 37,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-12-11",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 5,
+    "length_in": 8,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-12-13",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 27,
+    "length_in": 44,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-12-16",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 13,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-12-17",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 11,
+    "length_in": 19,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-12-19",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 7,
+    "length_in": 48,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2025-12-20",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 63,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-12-20",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 13,
+    "length_in": 17,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-12-21",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 4,
+    "length_in": 8,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2025-12-21",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 5,
+    "length_in": 7,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-12-22",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 17,
+    "length_in": 20,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-12-22",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 12,
+    "length_in": 19,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2025-12-23",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 24,
+    "length_in": 35,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2025-12-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 4,
+    "length_in": 7,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2025-12-28",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 11,
+    "length_in": 19,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2025-12-29",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 10,
+    "length_in": 64,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2025-12-30",
+    "alloy": "7075-T6",
+    "thickness_in": 1,
+    "width_in": 7,
+    "length_in": 12,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2025-12-30",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 10,
+    "length_in": 11,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2025-12-30",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 44,
+    "length_in": 46,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-01-01",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 12,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-01-03",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 6,
+    "length_in": 53,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2026-01-05",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 35,
+    "length_in": 44,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-01-09",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 6,
+    "length_in": 30,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2026-01-10",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 17,
+    "length_in": 26,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-01-10",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 11,
+    "length_in": 17,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-01-10",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 10,
+    "length_in": 11,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-01-11",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 27,
+    "length_in": 70,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-01-13",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 9,
+    "length_in": 13,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-01-14",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 24,
+    "length_in": 37,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-01-14",
+    "alloy": "6061-T6",
+    "thickness_in": 0.75,
+    "width_in": 14,
+    "length_in": 22,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-01-14",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 6,
+    "length_in": 25,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-01-15",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 27,
+    "length_in": 46,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-01-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 23,
+    "length_in": 29,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-01-19",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 10,
+    "length_in": 11,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-01-21",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 13,
+    "length_in": 17,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2026-01-23",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 10,
+    "length_in": 10,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-01-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 22,
+    "length_in": 42,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-01-27",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 9,
+    "length_in": 11,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-01-27",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 14,
+    "length_in": 58,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-01-30",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 12,
+    "length_in": 19,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-01-30",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 17,
+    "length_in": 53,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-01-30",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 13,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-02-02",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 12,
+    "length_in": 19,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-02-03",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 12,
+    "length_in": 20,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-02-03",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 9,
+    "length_in": 11,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2026-02-06",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 41,
+    "length_in": 45,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-02-06",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 36,
+    "length_in": 37,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2026-02-19",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 6,
+    "length_in": 25,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-02-19",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 5,
+    "length_in": 7,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-02-21",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 15,
+    "length_in": 21,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2026-02-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 17,
+    "length_in": 21,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-02-26",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 5,
+    "length_in": 8,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-03-01",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 10,
+    "length_in": 11,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2026-03-02",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 6,
+    "length_in": 23,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-03-04",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 11,
+    "length_in": 16,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-03-05",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 9,
+    "length_in": 11,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-03-07",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 36,
+    "length_in": 44,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-03-08",
+    "alloy": "6061-T6",
+    "thickness_in": 0.75,
+    "width_in": 23,
+    "length_in": 26,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-03-09",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 21,
+    "length_in": 70,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-03-10",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 15,
+    "length_in": 33,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2026-03-11",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 8,
+    "length_in": 13,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2026-03-20",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 15,
+    "length_in": 19,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-03-21",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 5,
+    "length_in": 25,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2026-03-23",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 3,
+    "length_in": 9,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-03-24",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 8,
+    "length_in": 12,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2026-03-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 23,
+    "length_in": 37,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2026-03-29",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 21,
+    "length_in": 39,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2026-03-29",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 5,
+    "length_in": 9,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-03-30",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 11,
+    "length_in": 18,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2026-04-04",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 27,
+    "length_in": 38,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-04-04",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 16,
+    "length_in": 20,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-04-04",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 8,
+    "length_in": 13,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-04-06",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 28,
+    "length_in": 30,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2026-04-07",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 3,
+    "length_in": 53,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-04-10",
+    "alloy": "7075-T6",
+    "thickness_in": 0.25,
+    "width_in": 9,
+    "length_in": 10,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2026-04-12",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 22,
+    "length_in": 29,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-04-12",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 11,
+    "length_in": 18,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2026-04-14",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 3,
+    "length_in": 9,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2026-04-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 34,
+    "length_in": 36,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2026-04-16",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 8,
+    "length_in": 13,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-04-17",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 11,
+    "length_in": 17,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-04-20",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 3,
+    "length_in": 8,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-04-23",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 11,
+    "length_in": 25,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-04-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 14,
+    "length_in": 28,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-04-26",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 12,
+    "length_in": 54,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-04-26",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 25,
+    "length_in": 36,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2026-04-27",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 11,
+    "length_in": 18,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-05-01",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 7,
+    "length_in": 16,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-05-07",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 3,
+    "length_in": 8,
+    "quantity": 3
+  },
+  {
+    "ordered_at": "2026-05-08",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 8,
+    "length_in": 12,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-05-09",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 40,
+    "length_in": 43,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2026-05-13",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 24,
+    "length_in": 33,
+    "quantity": 10
+  },
+  {
+    "ordered_at": "2026-05-14",
+    "alloy": "7075-T6",
+    "thickness_in": 0.5,
+    "width_in": 5,
+    "length_in": 25,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-05-17",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 17,
+    "length_in": 19,
+    "quantity": 2
+  },
+  {
+    "ordered_at": "2026-05-19",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 15,
+    "length_in": 21,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-05-20",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 16,
+    "length_in": 21,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2026-05-20",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 24,
+    "length_in": 35,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2026-05-23",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 23,
+    "length_in": 35,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-05-24",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 4,
+    "length_in": 8,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-05-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 44,
+    "length_in": 57,
+    "quantity": 9
+  },
+  {
+    "ordered_at": "2026-05-25",
+    "alloy": "6061-T6",
+    "thickness_in": 0.5,
+    "width_in": 12,
+    "length_in": 22,
+    "quantity": 6
+  },
+  {
+    "ordered_at": "2026-05-26",
+    "alloy": "6061-T6",
+    "thickness_in": 0.25,
+    "width_in": 3,
+    "length_in": 60,
+    "quantity": 4
+  },
+  {
+    "ordered_at": "2026-05-26",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 7,
+    "length_in": 11,
+    "quantity": 5
+  },
+  {
+    "ordered_at": "2026-05-27",
+    "alloy": "6061-T6",
+    "thickness_in": 1,
+    "width_in": 35,
+    "length_in": 44,
+    "quantity": 7
+  },
+  {
+    "ordered_at": "2026-06-01",
+    "alloy": "7075-T6",
+    "thickness_in": 0.125,
+    "width_in": 9,
+    "length_in": 51,
+    "quantity": 8
+  },
+  {
+    "ordered_at": "2026-06-03",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 42,
+    "length_in": 64,
+    "quantity": 1
+  },
+  {
+    "ordered_at": "2026-06-06",
+    "alloy": "6061-T6",
+    "thickness_in": 0.125,
+    "width_in": 25,
+    "length_in": 37,
+    "quantity": 4
+  }
+]
