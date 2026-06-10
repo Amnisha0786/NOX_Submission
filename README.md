@@ -4,7 +4,7 @@ Candidate: Amnisha
 
 ## Contents
 
-- `design_slides.pptx` - main design slides for review.
+- `design_doc.pdf` - main design pdf for review.
 - `prototype/prototype.py` - small Python prototype demonstrating demand-aware drop valuation.
 - `prototype/output_example.txt` - example output from the prototype against the provided data.
 - `jobs.json`, `inventory.json`, `order_history.json`, `DATA.md` - provided sample data, included for reproducibility.
